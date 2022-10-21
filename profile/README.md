@@ -1,55 +1,52 @@
- 
-```
- 
+[size=9px][font=monospace][color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080]               [/color][color=#c6bf39]╖[/color][color=#eae30a]╢[/color][color=#b6c615]╣[/color][color=#b6c615]╣[/color][color=#b6c615]╣[/color][color=#b5c615]╣[/color][color=#a9c017]╢[/color][color=#86b11c]╣[/color][color=#489d21]▓[/color][color=#149c42]▓[/color][color=#06a364]▓[/color][color=#00a674]▓[/color][color=#00a674]▓[/color][color=#00a674]▓[/color][color=#00a674]▓[/color][color=#05a68f]▓[/color][color=#2e9a92]▓[/color][color=#6a8684],[/color]
+[color=#808080]            [/color][color=#979468],[/color][color=#d3ca2c]╥[/color][color=#fbef03]╢[/color][color=#fef100]▒[/color][color=#f0e904]▒[/color][color=#b6c614]╣[/color][color=#b5c515]╣[/color][color=#a2bd18]╢[/color][color=#7fae1d]╣[/color][color=#6da71f]╣[/color][color=#6ca61f]╣[/color][color=#479d21]▓[/color][color=#1c992d]▓[/color][color=#1c992d]▓[/color][color=#179b3b]▓[/color][color=#09a25d]▓[/color][color=#01a673]▓[/color][color=#00a674]▓[/color][color=#02a790]▓[/color][color=#00a89c]▓[/color][color=#01a89c]▓[/color][color=#219e95]▓[/color][color=#5f8a87],[/color]
+[color=#808080]          [/color][color=#a29c5d],[/color][color=#dfd220]╢[/color][color=#fded02]▒[/color][color=#feee01]▒[/color][color=#feee01]▒[/color][color=#feee01]▒[/color][color=#eee507]╢[/color][color=#9cb81e]╫[/color][color=#79a923]▓[/color][color=#6ea424]▓[/color][color=#6da424]▓[/color][color=#6da424]▓[/color][color=#6da425]▓[/color][color=#4a9b26]▓[/color][color=#229731]▓[/color][color=#229731]▓[/color][color=#229731]▓[/color][color=#229632]▓[/color][color=#1e993a]▓[/color][color=#129f5b]▓[/color][color=#06a68f]▓[/color][color=#00a89e]▓[/color][color=#00a89e]▓[/color][color=#00a89e]▓[/color][color=#01a89e]▓[/color][color=#16a199]▓[/color][color=#528e8c]╖[/color]
+[color=#808080]        [/color][color=#a78155]╓[/color][color=#d88720]╬[/color][color=#f5b609]▒[/color][color=#f7bb07]▒[/color][color=#f7bb07]▒[/color][color=#f7bb07]▒[/color][color=#f0b80f]╣[/color][color=#bfa03f]╜               [/color][color=#46939e]╙[/color][color=#0da6bc]▓[/color][color=#00aac4]▓[/color][color=#00aac3]▓[/color][color=#00aac3]▓[/color][color=#00aac4]▓[/color][color=#0da8dd]▓[/color][color=#4595b3]╖[/color]
+[color=#808080]      [/color][color=#b28249]╓[/color][color=#df8419]╬[/color][color=#e8850f]╢[/color][color=#e8880e]╢[/color][color=#f5b608]▒[/color][color=#f7ba07]▒[/color][color=#e9b315]Ñ[/color][color=#b3994c]`      [/color][color=#767676],[/color][color=#606060]▄[/color][color=#484848]▄[/color][color=#323232]█[/color][color=#383838]▄[/color][color=#4f4f4f]▄[/color][color=#666666],      [/color][color=#538e98]╙[/color][color=#17a3b8]▓[/color][color=#00aac4]▓[/color][color=#00aac5]▓[/color][color=#00ade8]╣[/color][color=#00adee]╢[/color][color=#07abe9]▓[/color][color=#3799be]╗[/color]
+[color=#808080]    [/color][color=#b5813f]g[/color][color=#dc8315]╣[/color][color=#e08310]╣[/color][color=#e08310]╣[/color][color=#e08310]╣[/color][color=#e18611]╣[/color][color=#ddaa20]╝[/color][color=#a69359]`   [/color][color=#666666],[/color][color=#4d4d4d]▄[/color][color=#353535]▄[/color][color=#1d1d1d]█[/color][color=#0d0d0d]█[/color][color=#141414]█[/color][color=#2b2b2b]▀[/color][color=#434343]▀[/color][color=#5a5a5a]`[/color][color=#545454]▀[/color][color=#3c3c3c]▀[/color][color=#252525]▀[/color][color=#101010]█[/color][color=#0f0f0f]█[/color][color=#222222]█[/color][color=#3a3a3a]▄[/color][color=#525252]▄[/color][color=#6a6a6a],  [/color][color=#5f8a91]`[/color][color=#229fb3]▓[/color][color=#01ace7]╣[/color][color=#00acee]╢[/color][color=#00aded]╢[/color][color=#00aced]╢[/color][color=#03abeb]╣[/color][color=#2a9ec9]@[/color]
+[color=#808080]   [/color][color=#1a9fb0]▓[/color][color=#05a5b9]▓[/color][color=#05a5b9]▓[/color][color=#05a5b9]▓[/color][color=#05a5b9]▓[/color][color=#05a4ae]▓[/color][color=#0ca19a]▓   [/color][color=#717171]"[/color][color=#060606]█[/color][color=#040404]█[/color][color=#3c3c3c]▀[/color][color=#565656]▀    [/color][color=#585858]▄[/color][color=#484848]▄[/color][color=#545454]▄    [/color][color=#696969]`[/color][color=#505050]▀[/color][color=#0d0d0d]█[/color][color=#010101]█[/color][color=#5e5e5e]Γ   [/color][color=#1179b8]▓[/color][color=#0185cc]▓[/color][color=#008fd4]▓[/color][color=#008fd5]▓[/color][color=#0090d5]▓[/color][color=#0090d5]▓[/color][color=#0e8ecc]▓        [/color][color=#777777],[/color][color=#767676],[/color][color=#767676],     [/color][color=#727272],     [/color][color=#777777],[/color][color=#737373],   [/color][color=#767676],[/color][color=#767676],[/color][color=#767676],,   [/color][color=#727272],   ,,,    [/color][color=#727272],[/color]
+[color=#808080]   [/color][color=#16a3b8]▓[/color][color=#00aac4]▓[/color][color=#00aac2]▓[/color][color=#01a9b4]▓[/color][color=#00a8a2]▓[/color][color=#00a89c]▓[/color][color=#07a69b]▓    [/color][color=#454545]▀[/color][color=#010101]█[/color][color=#373737]▌    [/color][color=#191919]█[/color][color=#000000]█[/color][color=#000000]██[/color][color=#0d0d0d]█    [/color][color=#555555]▐[/color][color=#020202]█[/color][color=#2a2a2a]▌    [/color][color=#1273b3]▓[/color][color=#0071bb]▓[/color][color=#0074be]▓[/color][color=#0181c8]▓[/color][color=#008cd2]▓[/color][color=#008ed4]▓[/color][color=#0e8dcb]▓  [/color][color=#5a5a5a]▄[/color][color=#1c1c1c]█[/color][color=#484848]▄[/color][color=#1f1f1f]█[/color][color=#4c4c4c]▄[/color][color=#707070]][/color][color=#070707]█[/color][color=#343434]▀[/color][color=#444444]▀[/color][color=#1b1b1b]█[/color][color=#3c3c3c]▌ [/color][color=#262626]█[/color][color=#2d2d2d]▀[/color][color=#484848]▀[/color][color=#2f2f2f]▀[/color][color=#252525]█ [/color][color=#6a6a6a]╒[/color][color=#1a1a1a]█[/color][color=#393939]▀[/color][color=#474747]▀[/color][color=#222222]█[/color][color=#3a3a3a]▌ [/color][color=#464646]▀[/color][color=#292929]█[/color][color=#050505]█[/color][color=#434343]▀[/color][color=#545454]▀[/color][color=#494949]▐[/color][color=#0f0f0f]█[/color][color=#414141]▀[/color][color=#3b3b3b]▀[/color][color=#5f5f5f]┘[/color][color=#707070]j[/color][color=#030303]█[/color][color=#3c3c3c]▀[/color][color=#454545]▀[/color][color=#525252]▀ [/color][color=#323232]█[/color][color=#1c1c1c]█[/color][color=#3d3d3d]▀[/color][color=#2d2d2d]▀[/color][color=#3c3c3c]▀[/color]
+[color=#808080]   [/color][color=#16a3b4]▓[/color][color=#01a9af]▓[/color][color=#00a99f]▓[/color][color=#00a99c]▓[/color][color=#00a99c]▓[/color][color=#00a99c]▓[/color][color=#07a69a]▓     [/color][color=#383838]▀[/color][color=#010101]█[/color][color=#3b3b3b]▌   [/color][color=#5a5a5a]╙[/color][color=#060606]█[/color][color=#000000]█[/color][color=#010101]█[/color][color=#4b4b4b]▀   [/color][color=#636363]╓[/color][color=#060606]█[/color][color=#171717]█     [/color][color=#1273b3]▓[/color][color=#0071bb]▓[/color][color=#0071bb]▓[/color][color=#0071bb]▓[/color][color=#0072bc]▓[/color][color=#017dc6]▓[/color][color=#0f88c7]▓ [/color][color=#767676],[/color][color=#555555]▐[/color][color=#1e1e1e]█[/color][color=#4f4f4f]▐[/color][color=#212121]█[/color][color=#6a6a6a],[/color][color=#727272]][/color][color=#070707]█[/color][color=#232323]█[/color][color=#272727]█[/color][color=#151515]█[/color][color=#505050]▀[/color][color=#575757]▐[/color][color=#0d0d0d]█   [/color][color=#0e0e0e]█[/color][color=#5a5a5a]▌[/color][color=#363636]▓[/color][color=#252525]█  [/color][color=#666666]][/color][color=#070707]█  [/color][color=#4b4b4b]▐[/color][color=#090909]█   [/color][color=#474747]▀[/color][color=#2c2c2c]▀[/color][color=#2b2b2b]█[/color][color=#5f5f5f]▄[/color][color=#707070]j[/color][color=#020202]█[/color][color=#2b2b2b]█[/color][color=#454545]▀ [/color][color=#6b6b6b]j[/color][color=#020202]█[/color]
+[color=#808080]   [/color][color=#29974a]▓[/color][color=#0aa25e]▓[/color][color=#01a676]▓[/color][color=#00a676]▓[/color][color=#00a677]▓[/color][color=#00a677]▓[/color][color=#07a478]▓      [/color][color=#3f3f3f]▀[/color][color=#020202]█[/color][color=#2f2f2f]█  [/color][color=#444444]▐[/color][color=#000000]█[/color][color=#000000]█[/color][color=#000000]█[/color][color=#2f2f2f]▌  [/color][color=#5e5e5e]╔[/color][color=#070707]█[/color][color=#161616]█      [/color][color=#125ba1]▓[/color][color=#0055a6]▓[/color][color=#0055a6]▓[/color][color=#0055a7]▓[/color][color=#0154a6]▓[/color][color=#0f3b92]▓[/color][color=#39277c]▓ [/color][color=#686868]`[/color][color=#1e1e1e]█[/color][color=#494949]▀[/color][color=#1a1a1a]█[/color][color=#4b4b4b]▀[/color][color=#676767]'[/color][color=#747474]][/color][color=#090909]█[/color][color=#5f5f5f][[/color][color=#636363]╙[/color][color=#0f0f0f]█[/color][color=#5e5e5e]▄ [/color][color=#262626]█[/color][color=#292929]█[/color][color=#444444]▄[/color][color=#292929]█[/color][color=#242424]█ [/color][color=#6a6a6a]"[/color][color=#191919]█[/color][color=#353535]▄[/color][color=#434343]▄[/color][color=#1c1c1c]█[/color][color=#383838]▀  [/color][color=#4b4b4b]▐[/color][color=#0a0a0a]█  [/color][color=#585858]▐[/color][color=#383838]▄[/color][color=#454545]▄[/color][color=#1c1c1c]█[/color][color=#292929]█[/color][color=#707070]j[/color][color=#030303]█[/color][color=#3e3e3e]▄[/color][color=#474747]▄[/color][color=#535353]▄ [/color][color=#343434]▀[/color][color=#191919]█[/color][color=#3d3d3d]▄[/color][color=#303030]█[/color][color=#454545]▌[/color]
+[color=#808080]   [/color][color=#2d943b]▓[/color][color=#1c982d]▓[/color][color=#1a9a34]▓[/color][color=#0da054]▓[/color][color=#02a670]▓[/color][color=#00a674]▓[/color][color=#07a475]▓       [/color][color=#565656]╙[/color][color=#080808]█[/color][color=#181818]█[/color][color=#676767],[/color][color=#4f4f4f]▀[/color][color=#4d4d4d]▀[/color][color=#4d4d4d]▀▀[/color][color=#4e4e4e]▀ [/color][color=#464646]▄[/color][color=#030303]█[/color][color=#242424]█       [/color][color=#1259a0]▓[/color][color=#0053a6]▓[/color][color=#0250a3]▓[/color][color=#143089]▓[/color][color=#3e197b]▓[/color][color=#4f167a]▓[/color][color=#55227b]▓[/color]
+[color=#808080]   [/color][color=#2d943b]▓[/color][color=#1c982d]▓[/color][color=#1c982d]▓[/color][color=#1c982d]▓[/color][color=#1b9930]▓[/color][color=#109e4c]▓[/color][color=#0ba36d]▓         [/color][color=#232323]█[/color][color=#040404]█[/color][color=#3e3e3e]▄   [/color][color=#6b6b6b]╓[/color][color=#202020]█[/color][color=#050505]█[/color][color=#464646]▀        [/color][color=#16529b]▓[/color][color=#1a2782]▓[/color][color=#46187a]▓[/color][color=#4f167a]▓[/color][color=#4f167a]▓[/color][color=#4f167a]▓[/color][color=#55227b]▓[/color]
+[color=#808080]    [/color][color=#68993a]▓[/color][color=#63a421]╣[/color][color=#62a420]╢[/color][color=#62a420]╢[/color][color=#62a420]╢[/color][color=#66a421]╢[/color][color=#9cab39]@         [/color][color=#595959]╙[/color][color=#141414]█[/color][color=#0c0c0c]█[/color][color=#464646]▄[/color][color=#323232]█[/color][color=#040404]█[/color][color=#292929]▀        [/color][color=#866f7f],[/color][color=#9b3b7f]@[/color][color=#7d167c]▓[/color][color=#79147b]▓[/color][color=#79147b]▓[/color][color=#79147b]▓[/color][color=#79147b]▓[/color][color=#792a7c]▓[/color][color=#7a5e7e]`[/color]
+[color=#808080]      [/color][color=#739843]╨[/color][color=#6ca522]▓[/color][color=#6ca61f]╢[/color][color=#70a81f]╣[/color][color=#afc216]╣[/color][color=#b5c515]╢[/color][color=#a9b52e]@[/color][color=#8f9460],        [/color][color=#555555]▀[/color][color=#222222]█[/color][color=#2e2e2e]▀[/color][color=#686868]`       [/color][color=#8a6680],[/color][color=#a12f80]▓[/color][color=#af0e80]▓[/color][color=#af0d80]▓[/color][color=#84127c]▓[/color][color=#7e137b]▓[/color][color=#7e147b]▓[/color][color=#7f337c]▀[/color][color=#7f677f]`[/color]
+[color=#808080]        [/color][color=#76944d]╙[/color][color=#72a525]▓[/color][color=#afc216]╣[/color][color=#b6c515]╣[/color][color=#b5c515]╣[/color][color=#b6c515]╢[/color][color=#adbb25]╬[/color][color=#959b56]╖               [/color][color=#8f5b80]╓[/color][color=#a62480]▓[/color][color=#af0d80]▓[/color][color=#b00d80]▓[/color][color=#b00d80]▓[/color][color=#af0d7f]▓[/color][color=#84167c]▓[/color][color=#7f3e7d]▀[/color]
+[color=#808080]          [/color][color=#a8a84d]╙[/color][color=#e3dc13]╢[/color][color=#f2ea03]▒[/color][color=#f2ea03]▒[/color][color=#f2ea03]▒[/color][color=#f2ea03]▒[/color][color=#eddc0c]╢[/color][color=#de9f1e]Ñ[/color][color=#d78821]╬[/color][color=#d68421]╬[/color][color=#d68421]╬[/color][color=#d68421]╬[/color][color=#d68421]╬[/color][color=#d47422]▓[/color][color=#d05b23]▓[/color][color=#d05b23]▓[/color][color=#d05b23]▓[/color][color=#d05b23]▓[/color][color=#cf5724]▓[/color][color=#c8352a]▓[/color][color=#d6155f]▓[/color][color=#df0671]╢[/color][color=#df0571]╢[/color][color=#df0571]╢[/color][color=#df0671]╢[/color][color=#d70f72]▓[/color][color=#aa437a]╜[/color]
+[color=#808080]             [/color][color=#e5da1a]╨[/color][color=#fef100]▒[/color][color=#fef100]▒[/color][color=#fde701]▒[/color][color=#f7bb07]▒[/color][color=#f7b907]▒[/color][color=#f1a50a]▒[/color][color=#ea8c0e]╢[/color][color=#e8840f]╢[/color][color=#e8850f]╢[/color][color=#e5720f]╢[/color][color=#e05311]╢[/color][color=#e15411]╢[/color][color=#de4c12]╢[/color][color=#d62419]╫[/color][color=#de0f2f]▓[/color][color=#e00c34]▓[/color][color=#e4085c]╣[/color][color=#e8046e]╣[/color][color=#e8046e]╣[/color][color=#da1571]▓[/color][color=#a94f79]"[/color]
+[color=#808080]               [/color][color=#d9d026]╙[/color][color=#fbe503]╢[/color][color=#f7bb07]▒[/color][color=#f8bb07]▒[/color][color=#f7ba07]▒[/color][color=#f7ba07]▒[/color][color=#f3aa09]▒[/color][color=#eb910d]╢[/color][color=#e5720f]╢[/color][color=#dd4513]╢[/color][color=#d41b1b]▓[/color][color=#df0d32]▓[/color][color=#e00c34]▓[/color][color=#e00c34]▓[/color][color=#e00c34]▓[/color][color=#e4095c]▓[/color][color=#d12072]▓[/color][color=#9e5b7b]`[/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
+[color=#808080] [/color]
 
-               ╖╢╣╣╣╣╢╣▓▓▓▓▓▓▓▓▓,
-
-            ,╥╢▒▒╣╣╢╣╣╣▓▓▓▓▓▓▓▓▓▓▓,
-
-          ,╢▒▒▒▒╢╫▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓╖
-
-        ╓╬▒▒▒▒╣╜               ╙▓▓▓▓▓▓╖
-
-      ╓╬╢╢▒▒Ñ`      ,▄▄█▄▄,      ╙▓▓▓╣╢▓╗
-
-    g╣╣╣╣╣╝`   ,▄▄███▀▀`▀▀▀███▄▄,  `▓╣╢╢╢╣@
-
-   ▓▓▓▓▓▓▓   "██▀▀    ▄▄▄    `▀██Γ   ▓▓▓▓▓▓▓        ,,,     ,     ,,   ,,,,   ,   ,,,    ,
-
-   ▓▓▓▓▓▓▓    ▀█▌    █████    ▐█▌    ▓▓▓▓▓▓▓  ▄█▄█▄]█▀▀█▌ █▀▀▀█ ╒█▀▀█▌ ▀██▀▀▐█▀▀┘j█▀▀▀ ██▀▀▀
-
-   ▓▓▓▓▓▓▓     ▀█▌   ╙███▀   ╓██     ▓▓▓▓▓▓▓ ,▐█▐█,]████▀▐█   █▌▓█  ]█  ▐█   ▀▀█▄j██▀ j█
-
-   ▓▓▓▓▓▓▓      ▀██  ▐███▌  ╔██      ▓▓▓▓▓▓▓ `█▀█▀']█[╙█▄ ██▄██ "█▄▄█▀  ▐█  ▐▄▄██j█▄▄▄ ▀█▄█▌
-
-   ▓▓▓▓▓▓▓       ╙██,▀▀▀▀▀ ▄██       ▓▓▓▓▓▓▓
-
-   ▓▓▓▓▓▓▓         ██▄   ╓██▀        ▓▓▓▓▓▓▓
-
-    ▓╣╢╢╢╢@         ╙██▄██▀        ,@▓▓▓▓▓▓`
-
-      ╨▓╢╣╣╢@,        ▀█▀`       ,▓▓▓▓▓▓▀`
-
-        ╙▓╣╣╣╢╬╖               ╓▓▓▓▓▓▓▀
-
-          ╙╢▒▒▒▒╢Ñ╬╬╬╬╬▓▓▓▓▓▓▓▓╢╢╢╢▓╜
-
-             ╨▒▒▒▒▒▒╢╢╢╢╢╢╢╫▓▓╣╣╣▓"
-
-               ╙╢▒▒▒▒▒╢╢╢▓▓▓▓▓▓▓`
-
- 
-
- 
-     
-     
-     
-     
-```     
-     
-     
-     
-     
-     
-     
-    
+[/font][/size]
